@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+azure-ai-formrecognizer
+langchain
+langchain-core
+langgraph
+pinecone-client
+elasticsearch
+python-dotenv
+pydantic
+python-multipart
